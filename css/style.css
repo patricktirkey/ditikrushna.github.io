@@ -46,6 +46,13 @@ body {
     color: #666;    
 }
 
+hr{
+   
+  color: black;
+  background-color: black;
+  border: none;
+}
+
 a {
     color: #00b8d4;
 }
